@@ -1,0 +1,1 @@
+cmd_/home/hwang/spinlockswap/test.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/hwang/spinlockswap/test.ko /home/hwang/spinlockswap/test.o /home/hwang/spinlockswap/test.mod.o

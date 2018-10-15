@@ -1,0 +1,1 @@
+cmd_/home/hwang/rawspinswap/test.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/hwang/rawspinswap/test.ko /home/hwang/rawspinswap/test.o /home/hwang/rawspinswap/test.mod.o

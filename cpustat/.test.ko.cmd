@@ -1,0 +1,1 @@
+cmd_/home/hwang/recozesecure/cpustat/test.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/hwang/recozesecure/cpustat/test.ko /home/hwang/recozesecure/cpustat/test.o /home/hwang/recozesecure/cpustat/test.mod.o

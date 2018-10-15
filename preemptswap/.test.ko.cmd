@@ -1,0 +1,1 @@
+cmd_/home/hwang/recozesecure/preemptswap/test.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/hwang/recozesecure/preemptswap/test.ko /home/hwang/recozesecure/preemptswap/test.o /home/hwang/recozesecure/preemptswap/test.mod.o

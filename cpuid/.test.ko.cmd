@@ -1,0 +1,1 @@
+cmd_/home/hwang/recozesecure/cpuid/test.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/hwang/recozesecure/cpuid/test.ko /home/hwang/recozesecure/cpuid/test.o /home/hwang/recozesecure/cpuid/test.mod.o

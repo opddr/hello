@@ -1,0 +1,1 @@
+cmd_/home/hwang/recozesecure/kthreadpreempt/test.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/hwang/recozesecure/kthreadpreempt/test.ko /home/hwang/recozesecure/kthreadpreempt/test.o /home/hwang/recozesecure/kthreadpreempt/test.mod.o
